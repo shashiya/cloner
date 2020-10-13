@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To MR-SH4DOW
+#The Credit For This Code Goes To MR-Shashiya💔
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -196,17 +196,15 @@ print  """
 \033[1;91mв”Ђв”Ђв–„в–€в–€в–€в–€в–„в”Ђв”Ђв–ђв–Њв”Ђв”Ђв–„в–€в–€в–€в–€в–„в”Ђв”Ђ\033[1;97mв”Ђв”Ђв–„в–€в–€в–€в–€в–„в”Ђв”Ђв–ђв–Њв”Ђв”Ђв–„в–€в–€в–€в–€в–„в”Ђв”Ђ    
 \033[1;97mвЂўв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ЂвЂў                                                                                                                             
 
-\033[1;96m  _______ ______          __  __ 
-\033[1;95m |__   __|  ____|   /\   |  \/  |
- \033[1;97m   | |  | |__     /  \  | \  / |
- \033[1;94m   | |  |  __|   / /\ \ | |\/| |
-  \033[1;93m  | |  | |____ / ____ \| |  | |
- \033[1;92m __|_|  |______/_/___ \_\_|_ |_|
-\033[1;91m |  __ \   /\   |  __ \| |/ /    
-\033[1;93m | |  | | /  \  | |__) | ' /     
- \033[1;95m| |  | |/ /\ \ |  _  /|  <      
- \033[1;94m| |__| / ____ \| | \ \| . \     
-\033[1;91m |_____/_/    \_\_|  \_\_|\_\    
+\033[1;96m     _____  _                  _      _
+\033[1;95m    / ____|| |                | |    (_)
+ \033[1;97m  | (___  | |__    __ _  ___ | |__   _  _   _   __ _ 
+ \033[1;94m   \___ \ | '_ \  / _` |/ __|| '_ \ | || | | | / _` |
+  \033[1;93m  ____) || | | || (_| |\__ \| | | || || |_| || (_| |
+ \033[1;92m  |_____/ |_| |_| \__,_||___/|_| |_||_| \__, | \__,_|
+\033[1;91m                                          __/ |
+\033[1;93m                                         |___/      
+\033[1;91m Create By Shashimal vishwajith
                                  
                                  
            
@@ -247,7 +245,7 @@ def login():
         time.sleep(0.05)
         print "\033[1;93m[3]\033[1;47m\033[1;31mDownload Token App               \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;94m[4]\033[1;47m\033[1;31mSubscribe Usman Tech      \033[1;0m"
+        print "\033[1;94m[4]\033[1;47m\033[1;31mSubscribe Hard Killer      \033[1;0m"
         time.sleep(0.05)
 	print "\033[1;95m[5]\033[1;47m\033[1;31mJoin Whatsapp group For Help           \033[1;0m"
         time.sleep(0.05)
@@ -268,10 +266,10 @@ def pilih_login():
 	        os.system('xdg-open https://m.apkpure.com/get-access-token/com.proit.thaison.getaccesstokenfacebook/download/1-APK?from=versions%2Fversion')
 	        login()
         elif peak =="4":
-	        os.system('xdg-open https://www.youtube.com/c/UCQdBT_TMMD3l6CrS6JxiUSQ')
+	        os.system('xdg-open https://https://youtu.be/OsrxjxNMQlM')
 	        login()
         elif peak =="5":
-	        os.system('xdg-open https://chat.whatsapp.com/ ')
+	        os.system('xdg-open https://chat.whatsapp.com/CcixmqZNP1bAuQCz8T0rvx ')
                 login()
 	elif peak =="0":
 		keluar()
@@ -775,7 +773,7 @@ gin()
                                                                         
       
 """
-	print "\033[1;97mВ«-----------------\033[1;37mвњ…DARK-STORMвњ…\033[1;97m-----------------В»"
+	print "\033[1;97mВ«-----------------\033[1;37mвњ…Shashiyaвњ…\033[1;97m-----------------В»"
 	raw_input("\n\033[1;97m[+]\033[1;97mBack")
 	menu()
 
